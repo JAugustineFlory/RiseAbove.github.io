@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+main {
+    display: grid;
+    width: 100%;
+}
+
+.sec-nav {
+    display: grid;
+    grid-template: 1fr / 2fr 1fr
+}
+
+.sec-nav h2 {
+    justify-self: flex-end``
+}
